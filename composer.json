@@ -1,7 +1,7 @@
 {
     "name": "ixudra/addressable",
     "description": "Custom Laravel package for address support for the Laravel framework - developed by Ixudra",
-    "version": "2.1.0",
+    "version": "2.2.0",
     "keywords": ["Ixudra", "address", "Laravel"],
     "homepage": "https://ixudra.be",
     "license": "MIT",
@@ -15,8 +15,8 @@
 
     "require": {
         "php": ">=7.2",
-        "illuminate/support": "~6.0|~7.0",
-        "illuminate/database": "~6.0|~7.0",
+        "illuminate/support": ">=6.0",
+        "illuminate/database": ">=6.0",
         "ixudra/core": "~6.0",
         "laravelcollective/html": "~6.0",
         "laracasts/presenter": "0.2.*"
