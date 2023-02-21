@@ -19,7 +19,7 @@
         "illuminate/database": ">=6.0",
         "ixudra/core": "dev-master",
         "laravelcollective/html": "~6.0",
-        "laracasts/presenter": "dev-master"
+        "laracasts/presenter": "^0.2"
     },
 
     "suggest": {
@@ -34,12 +34,6 @@
             "Ixudra\\Addressable\\": "src/"
         }
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/creso-be/laracasts-presenter"
-        }
-    ],
     "extra": {
         "laravel": {
             "providers": [
